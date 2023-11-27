@@ -1,0 +1,6 @@
+C:\workbanch\SuperAdventureGame\Engine\bin\Release\Engine.dll
+C:\workbanch\SuperAdventureGame\Engine\bin\Release\Engine.pdb
+C:\workbanch\SuperAdventureGame\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+C:\workbanch\SuperAdventureGame\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\workbanch\SuperAdventureGame\Engine\obj\Release\Engine.dll
+C:\workbanch\SuperAdventureGame\Engine\obj\Release\Engine.pdb
