@@ -1,0 +1,14 @@
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\bin\Release\SuperAdventureGame.exe.config
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\bin\Release\SuperAdventureGame.exe
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\bin\Release\SuperAdventureGame.pdb
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\bin\Release\Engine.dll
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\bin\Release\Engine.pdb
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.csproj.AssemblyReference.cache
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.csproj.SuggestedBindingRedirects.cache
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.Properties.Resources.resources
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.csproj.GenerateResource.cache
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.csproj.CoreCompileInputs.cache
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.csproj.CopyComplete
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.exe
+C:\workbanch\SuperAdventureGame\SuperAdventureGame\obj\Release\SuperAdventureGame.pdb
