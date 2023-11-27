@@ -19,15 +19,15 @@ namespace Engine
         public Location LocationToSouth { get; set; }
         public Location LocationToWest { get; set; }
 
-        public Location(int id, string name, string description, Item itemRequiredToEnter = null,Quest questAvailableHere = null, Monster monsterLivingHere = null)
+        public Location(int id, string name, string description, Item itemRequiredToEnter = null, 
+            Quest questAvailableHere = null, Monster monsterLivingHere = null)
         {
             ID = id;
             Name = name;
             Description = description;
-            ItemRequiredToEnter = ItemRequiredToEnter;
-            QuestAvailableHere = QuestAvailableHere;
-            MonsterLivingHere = MonsterLivingHere;
-
+            ItemRequiredToEnter = itemRequiredToEnter;
+            QuestAvailableHere = questAvailableHere;
+            MonsterLivingHere = monsterLivingHere;
         }
     }
 }
